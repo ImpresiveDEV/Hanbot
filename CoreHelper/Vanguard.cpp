@@ -15,11 +15,11 @@ const std::string compilation_time = (std::string)skCrypt(__TIME__);
 
 using namespace std;
 using namespace KeyAuth;
-auto name = skCrypt("Hanbot");
-auto ownerid = skCrypt("0uZmlfg3fy");
-auto secret = skCrypt("988413c497760926b11a7243a5459e4b7bc435ed28c1b717196ae84ec4a49f0d");
-auto version = skCrypt("1.0");
-auto url = skCrypt("https://keyauth.win/api/1.2/");
+auto name = skCrypt(" ");
+auto ownerid = skCrypt(" ");
+auto secret = skCrypt(" ");
+auto version = skCrypt(" ");
+auto url = skCrypt(" ");
 bool ServerRiot = false;
 bool ServerChina = false;
 string LicenseKey;
