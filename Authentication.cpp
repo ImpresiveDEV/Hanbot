@@ -21,11 +21,11 @@ static std::tm timet_to_tm(time_t timestamp);
 const std::string compilation_date = (std::string)skCrypt(__DATE__);
 const std::string compilation_time = (std::string)skCrypt(__TIME__);
 
-auto name = skCrypt("Hanbot");
-auto ownerid = skCrypt("0uZmlfg3fy");
-auto secret = skCrypt("988413c497760926b11a7243a5459e4b7bc435ed28c1b717196ae84ec4a49f0d");
-auto version = skCrypt("1.2");
-auto url = skCrypt("https://keyauth.win/api/1.2/");
+auto name = skCrypt(" ");
+auto ownerid = skCrypt(" ");
+auto secret = skCrypt(" ");
+auto version = skCrypt(" ");
+auto url = skCrypt(" );
 
 bool CheckLic = true;
 
