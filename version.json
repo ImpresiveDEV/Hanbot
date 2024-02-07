@@ -1,0 +1,17 @@
+{
+  "files": [
+    {
+      "Name": "core.dll",
+      "downloadLink": "https://github.com/ImpresiveDEV/Aura/raw/main/League%20of%20Legends/14.3.558.106/core.dll"
+    },
+    {
+      "Name": "core_cn.dll",
+      "DownloadLink": "https://github.com/ImpresiveDEV/Aura/raw/main/League%20of%20Legends/14.3.558.106/core_cn.dll"
+    },
+    {
+      "Name": "bot_5.dll",
+      "DownloadLink": "https://github.com/ImpresiveDEV/Aura/raw/main/League%20of%20Legends/14.3.558.106/bot_5.dll"
+    }
+  ],
+  "GameVersion": "14.3.558.106"
+}
