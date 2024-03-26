@@ -2,16 +2,16 @@
   "files": [
     {
       "Name": "core.dll",
-      "downloadLink": "https://github.com/ImpresiveDEV/Hanbot/raw/main/League%20of%20Legends/14.6.569.5139/core.dll"
+      "downloadLink": "https://github.com/ImpresiveDEV/Hanbot/raw/main/League%20of%20Legends/14.6.570.6276/core.dll"
     },
     {
       "Name": "core_cn.dll",
-      "DownloadLink": "https://github.com/ImpresiveDEV/Hanbot/raw/main/League%20of%20Legends/14.6.569.5139/core_cn.dll"
+      "DownloadLink": "https://github.com/ImpresiveDEV/Hanbot/raw/main/League%20of%20Legends/14.6.570.6276/core_cn.dll"
     },
     {
       "Name": "bot_5.dll",
-      "DownloadLink": "https://github.com/ImpresiveDEV/Hanbot/raw/main/League%20of%20Legends/14.6.569.5139/bot_5.dll"
+      "DownloadLink": "https://github.com/ImpresiveDEV/Hanbot/raw/main/League%20of%20Legends/14.6.570.6276/bot_5.dll"
     }
   ],
-  "GameVersion": "14.6.569.5139"
+  "GameVersion": "14.6.570.6276"
 }
